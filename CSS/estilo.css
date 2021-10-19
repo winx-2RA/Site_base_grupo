@@ -1,10 +1,22 @@
 body{
     background-color: lightskyblue;
 }
-.col{
+.row{
+    margin-bottom: 20px;
+    padding: 20px;
     background-color: white;
+}
+.col{
+    background-color: white; 
+}
+.col-4{
+    background-color: white; 
+}
+.col-8{
+    background-color: white; 
 }
 .container{
     margin-top:20px;
     border-radius: 15px;
+    margin-bottom:20px;
 }
