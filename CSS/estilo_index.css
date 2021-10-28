@@ -10,4 +10,11 @@ body{
 }
 .btn-primary{
     background-color: #570202;
+    color:#570202; 
+    border-color:#570202; 
+}
+.btn-primary:hover{
+    background-color: #570202;
+    color:#570202; 
+    border-color:#570202;  
 }
