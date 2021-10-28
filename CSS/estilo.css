@@ -21,6 +21,6 @@ body{
     margin-bottom:20px;
 }
 
-.btn-primary(
+.btn-primary{
     background-color: #570202
-)
+}
