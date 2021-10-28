@@ -20,3 +20,7 @@ body{
     border-radius: 15px;
     margin-bottom:20px;
 }
+
+.btn-primary(
+    background-color: #570202
+)
