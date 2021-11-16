@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Praise&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Fredoka+One&family=Praise&display=swap');
 
 body{
     background-color: #570202;
@@ -12,5 +12,5 @@ body{
 }
 
 h6{
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fredoka One', cursive;
 }
