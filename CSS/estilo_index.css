@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
+
 body{
     background-color: #570202;
 }
@@ -9,3 +11,6 @@ body{
     border-radius: 15px;
 }
 
+h6{
+    font-family: 'Praise', cursive;
+}
